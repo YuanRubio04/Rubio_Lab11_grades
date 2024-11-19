@@ -1,5 +1,6 @@
 listofwords = []
 matching_words = []
+count = 1
 
 while count<10:
     word = input("Enter 10 set of words: ")
